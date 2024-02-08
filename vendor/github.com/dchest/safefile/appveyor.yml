@@ -22,6 +22,3 @@ build_script:
 test: off
 
 deploy: off
-]\\
-
-go get golang.org/x/tools/cmd/vet
